@@ -20,7 +20,7 @@ SOURCES = [
     {"name": "오케이핑퐁", "url": "https://www.okpingpong.co.kr", "parser": "generic"},
     {"name": "대한탁구협회", "url": "https://www.ktta.or.kr", "parser": "generic"},
     {"name": "아이핑클럽", "url": "", "parser": "generic"},      # TODO: 주소 입력
-    {"name": "슈퍼스타탁구", "url": "", "parser": "generic"},    # TODO: 주소 입력
+    {"name": "슈퍼스타탁구", "https://www.superstar.kr/open/Do.jsp?urlSeq=214": "", "parser": "generic"},    # TODO: 주소 입력
     {"name": "코리아탁구", "url": "", "parser": "generic"},      # TODO: 주소 입력
 ]
 
